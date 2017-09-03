@@ -1,0 +1,9 @@
+.git
+.gitignore
+.editorconfig
+node_modules
+*.log
+*.md
+*.swp
+Dockerfile
+LICENSE
